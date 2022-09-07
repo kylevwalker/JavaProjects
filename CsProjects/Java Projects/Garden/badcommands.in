@@ -1,0 +1,20 @@
+rows: 1
+cols: 16
+
+PLANT (0,0) rose
+PLANT (0,1) banana
+PLANT (0,8) garlic
+PLANT (0,10) zucchini
+PLANT (0,12) lily
+PLANT (0,14) coconut
+PLANT (0,17) banana
+PLANT (0,16) coconut
+PLANT (0,15) lily
+PLANT (15,0) banana
+PLANT (14,4) coconut
+print
+grow 2
+print
+grow 1 
+print
+

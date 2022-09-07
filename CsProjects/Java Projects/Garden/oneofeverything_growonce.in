@@ -1,0 +1,16 @@
+rows: 3
+cols: 4
+Print
+PLANT (0,0) banana
+PLANT (0,1) tomato
+PLANT (0,2) sunflower
+plant (1,0) zucchini
+plant (1,2) lily
+plant (2,3) oak
+plant (2,3) garlic
+print
+grow 3 zucchini
+print
+grow 1 (0,1)
+harvest zucchini
+print
